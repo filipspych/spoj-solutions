@@ -1,0 +1,11 @@
+<zbiory>
+<zbior nazwa="pierwszy" licznosc="2" test="3">
+<roslina nazwa="trawa" >
+<lisc kolor="zielony"/> <lodyga/>
+</roslina>
+<roslina nazwa="tulipan" typ="kwiat">
+<lisc kolor="zielony" dlugosc="10"/><kwiat>
+<platek kolor="czerwony"><robak /></platek>
+</kwiat>
+</roslina></zbior>
+<zbior licznosc="0"></zbior></zbiory>
